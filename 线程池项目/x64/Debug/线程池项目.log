@@ -1,0 +1,11 @@
+﻿  threadpool.cpp
+E:\BaiduNetdiskDownload\线程池项目资料\线程池项目代码\线程池项目\线程池项目\threadpool.cpp(74,1): error C2280: “Result::Result(const Result &)”: 尝试引用已删除的函数
+E:\BaiduNetdiskDownload\线程池项目资料\线程池项目代码\线程池项目\线程池项目\threadpool.h(118): message : 编译器已在此处生成“Result::Result”
+E:\BaiduNetdiskDownload\线程池项目资料\线程池项目代码\线程池项目\线程池项目\threadpool.h(118,1): message : “Result::Result(const Result &)”: 由于 数据成员 调用已删除或不可访问的函数“Any::Any(const Any &)”，因此已隐式删除函数
+E:\BaiduNetdiskDownload\线程池项目资料\线程池项目代码\线程池项目\线程池项目\threadpool.h(19,2): message : “Any::Any(const Any &)”: 已隐式删除函数
+  线程池项目测试.cpp
+E:\BaiduNetdiskDownload\线程池项目资料\线程池项目代码\线程池项目\线程池项目\线程池项目测试.cpp(62,1): error C2280: “Result::Result(const Result &)”: 尝试引用已删除的函数
+E:\BaiduNetdiskDownload\线程池项目资料\线程池项目代码\线程池项目\线程池项目\threadpool.h(118): message : 编译器已在此处生成“Result::Result”
+E:\BaiduNetdiskDownload\线程池项目资料\线程池项目代码\线程池项目\线程池项目\threadpool.h(118,1): message : “Result::Result(const Result &)”: 由于 数据成员 调用已删除或不可访问的函数“Any::Any(const Any &)”，因此已隐式删除函数
+E:\BaiduNetdiskDownload\线程池项目资料\线程池项目代码\线程池项目\线程池项目\threadpool.h(19,2): message : “Any::Any(const Any &)”: 已隐式删除函数
+  正在生成代码...
